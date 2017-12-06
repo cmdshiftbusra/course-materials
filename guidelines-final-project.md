@@ -1,5 +1,7 @@
 # Guidelines for Case Study
 
+Link to my case study project: <a href="busra.demirci.com/portfolio/portfolio-items/eco-lux">Click Here</a>
+
 30 points.
 
 Think of your case study as a narrative. Design it as a "poster" with one to two pages that could contain multiple panels. You do not need to make a poster; plan to display electronically. Your format should be a professional quality publication design that you would feel comfortable presenting to a customer.
